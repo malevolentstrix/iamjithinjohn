@@ -7,7 +7,7 @@
 - I like to tinker with Computer Hardware and Softwares.
 - I am currently a member at [amFOSS](http://www.amfoss.in).
 - Contact me by sending a mail at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com) or DM me at [Telegram](http://t.me/imjithin2077).
-- Find me on Google [@imjithin2077](http://google.com/imjithin2077), if you will.
+- Find me on Google [@imjithin2077](https://www.google.co.in/search?q=imjithin2077), if you will.
 - Connect with me through [Instagram](http://www.instagram.com/imjithin2077) and [Facebook](www.facebook.com/imjithin2077).
 - Feel free to take a look at my [Linkedin](http://linkedin.com/in/imjithin2077) profile.
 
