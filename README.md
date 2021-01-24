@@ -10,9 +10,7 @@
 - Feel free to look at my [Linkedin](http://linkedin.com/in/imjithin2077) page.
 
 ![Jithin John's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=imjithin2077&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
- <div align="right"><img src="https://octodex.github.com/images/pythocat.png" height="160px" width="160px"> </div>
 
-[![twitter badge](https://img.shields.io/badge/twitter-imjithin2077-0077b5?style=social&logo=twitter)](https://twitter.com/imjithin2077)
-[![linkedin badge](https://img.shields.io/badge/linkedin-imjithin2077-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/imjithin2077/)
+<a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/pythocat.png" width="200"  align="right"></a>
 
 <p align="center"><a href="https://github.com/imjithin2077"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
