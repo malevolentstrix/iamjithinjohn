@@ -5,10 +5,10 @@
 - I am a Frosh pursuing B.Tech in Computer Science and Engineering(Artificial Intelligence).
 - I come from a town in Kottayam, Kerala.
 - I like to work on computers.
-- I am currently a member of [amFOSS](http://www.amfoss.in).
-- Contact me by sending a mail at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com).
-- Connect with me through [Telegram](http://t.me/imjithin2077), [Instagram](http://www.instagram.com/imjithin2077), or [Facebook](www.facebook.com/imjithin2077).
-- Feel free to look at my [Linkedin](http://linkedin.com/in/imjithin2077) profile.
+- I am currently a member at [amFOSS](http://www.amfoss.in).
+- Contact me by sending a mail at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com) or DM me at [Telegram](http://t.me/imjithin2077).
+- Connect with me through [Instagram](http://www.instagram.com/imjithin2077) and [Facebook](www.facebook.com/imjithin2077).
+- Feel free to take a look at my [Linkedin](http://linkedin.com/in/imjithin2077) profile.
 
 
 <a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/pythocat.png" width="200"  align="right"></a>
