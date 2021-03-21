@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Jithin 👋
 
-- I am a Frosh pursuing B.Tech in Computer Science and Engineering(Artificial Intelligence).
+- I am a Fresher pursuing B.Tech in Computer Science and Engineering(Artificial Intelligence).
 - I come from a town in Kottayam, Kerala.
 - I like to tinker with Computer Hardware and Softwares.
 - I am currently a member at [amFOSS](http://www.amfoss.in).
