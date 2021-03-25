@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjithin2077&show_icons=true&locale=en&layout=compact" alt="imjithin2077" /></p>
 
-<p>&nbsp;<img align="center" height="200" width = "450" src="https://github-readme-stats.vercel.app/api?username=imjithin2077&show_icons=true&theme=dracula&title_color=45ff38&text_color=ffffff&locale=en" alt="imjithin2077" /></p>
+<p>&nbsp;<img align="center" height="170" width = "400" src="https://github-readme-stats.vercel.app/api?username=imjithin2077&show_icons=true&theme=dracula&title_color=45ff38&text_color=ffffff&locale=en" alt="imjithin2077" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imjithin2077&" alt="imjithin2077" /></p>
