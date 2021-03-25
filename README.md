@@ -12,7 +12,7 @@
 - Feel free to take a look at my [Linkedin](http://linkedin.com/in/imjithin2077) profile.
 
 
-<a href="https://octodex.github.com/gobbleotron/"><img src="https://octodex.github.com/images/gobbleotron.gif" width="200"  align="right"></a>
+<a href="https://octodex.github.com/gobbleotron/"><img src="https://octodex.github.com/images/gobbleotron.gif" height="260px" width="260px  align="right"></a>
 
 ![Jithin John's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=imjithin2077&show_icons=true&hide_border=false&title_color=ff0000&icon_color=ed5252&text_color=000000&bg_color=ffff99)
 
