@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jithin</h1>
 <h3 align="center">I am a Fresher pursuing B.Tech in Computer Science and Engineering(Artificial Intelligence).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imjithin2077" alt="imjithin2077" /></a> </p>
-
 - 🔭 I’m currently working on **Projects involving C/C++**
 
 - 🌱 I’m currently learning **C and C++**
 
-- 👨‍💻 All of my projects are available at [imjithin2077.github.io](imjithin2077.github.io)
+- 👨‍💻 Check out my portfolio at [imjithin2077.github.io](https://imjithin2077.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@imjithin2077](https://medium.com/@imjithin2077)
 
