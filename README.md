@@ -14,6 +14,6 @@
 
 <a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/pythocat.png" width="200"  align="right"></a>
 
-![Jithin John's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=imjithin2077&show_icons=true&hide_border=false&title_color=37f050&icon_color=ed5252&text_color=000000&bg_color=c8f6e5)
+![Jithin John's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=imjithin2077&show_icons=true&hide_border=false&title_color=2fc343&icon_color=ed5252&text_color=000000&bg_color=c8f6e5)
 
 <p align="center"><a href="https://github.com/imjithin2077"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
