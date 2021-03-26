@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Audio and Video Players**
 
-- 📫 How to reach me **[jithintvm1@gmail.com](mailto:jithintvm1@gmail.com) or DM me at [Telegram](http://t.me/imjithin2077).**
+- 📫 How to reach me **Mail me at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com) or DM me at [Telegram](http://t.me/imjithin2077).**
 
 - 📄 Find me on Google, if you will [https://www.google.co.in/search?q=imjithin2077](https://www.google.co.in/search?q=imjithin2077)
 
