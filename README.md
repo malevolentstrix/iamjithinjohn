@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jithin</h1>
 <h3 align="center">I am a Fresher pursuing B.Tech in Computer Science and Engineering(Artificial Intelligence).</h3>
 
-- 🔭 I’m currently working on **Projects involving C/C++**
+- 🔭 I’m currently working on **Audacity bugs**
 
 - 🌱 I’m currently learning **C and C++**
 
