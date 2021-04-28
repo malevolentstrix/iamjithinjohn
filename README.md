@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **Audio and Video Players**
 
-- 📫 How to reach me **Mail me at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com) or DM me at [Telegram](http://t.me/aquaticloon).**
-
-- 📄 Find me on Google, if you will [https://www.google.co.in/search?q=aquaticloon](https://www.google.co.in/search?q=aquaticloon)
+- 📫 To reach me, **mail me at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com), DM me at [Telegram](http://t.me/aquaticloon) or send me a message through [Discord]().**
 
 - ⚡ Fun fact **Please dont ask me anything. I can only write colored text on dark background...**
 
