@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/aquaticloon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aquaticloon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aquaticloon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aquaticloon" height="30" width="40" /></a>
 <a href="https://fb.com/aquaticloon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aquaticloon" height="30" width="40" /></a>
-<a href="https://instagram.com/aquaticloon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aquaticloon" height="30" width="40" /></a>
+<a href="https://instagram.com/_jithin._.john_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aquaticloon" height="30" width="40" /></a>
 <a href="https://medium.com/@aquaticloon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aquaticloon" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/766587996706177025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discordapp.com/users/766587996706177025" height="30" width="40" /></a>
 </p>
