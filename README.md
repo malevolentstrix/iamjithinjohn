@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C and C++**
 
-- 👨‍💻 Check out my portfolio at [aquaticloon.github.io](https://aquaticloon.github.io/)
+- 👨‍💻 Check out my portfolio at [olympusposeidon.github.io](https://olympusposeidon.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@aquaticloon](https://medium.com/@aquaticloon)
 
