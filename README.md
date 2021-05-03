@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Audio and Video Players**
 
-- 📫 To reach me, **mail me at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com), DM me at [Telegram](http://t.me/olympusposeidon) or send me a message through [Discord]().**
+- 📫 To reach me, **mail me at [jithintvm1@gmail.com](mailto:jithintvm1@gmail.com), DM me at [Telegram](http://t.me/olympusposeidon) or send me a message through [Discord](https://discord.com/users/766587996706177025).**
 
 - ⚡ Fun fact **Please dont ask me anything. I can only write colored text on dark background...**
 
